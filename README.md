@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Barrimoscow
+- 👋 Hi, I’m @Barri
 - 👀 I’m interested in with AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ideas
